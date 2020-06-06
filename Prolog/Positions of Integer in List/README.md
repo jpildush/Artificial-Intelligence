@@ -5,7 +5,7 @@ This program searches through a user generated list of integers for an integer d
 **Open up Terminal/Power Shell and navigate to the directory with posXInList.pl**
 1. Compile and run program: ``` swipl posXInList.pl ```
 2. Start the prograsm: ``` start. ```
-3. Follow the prompt and enter a list of numbers followed by a decimal: i.e. ``` [2,234,2,656,4,5,7,3,2]. ```
+3. Follow the prompt and enter a list of numbers: i.e. ``` [2,234,2,656,4,5,7,3,2]. ```
 4. Follow the prompt and search for a number in the user defined list: i.e. ``` 2. ```
 
-* **The positions of the search, within the user defined list from Step 4, will be displayed - i.e.** ``` Positions in list: [1,3,9] ```
+* **The search will display the positions of the user inputted number, within the user defined list from Step 4 - i.e.** ``` Positions in list: [1,3,9] ```
