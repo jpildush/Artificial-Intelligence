@@ -8,4 +8,4 @@ This program searches through a user generated list of integers for an integer d
 3. Follow the prompt and enter a list of numbers: i.e. ``` [2,234,2,656,4,5,7,3,2]. ```
 4. Follow the prompt and search for a number in the user defined list: i.e. ``` 2. ```
 
-* **The search will display the positions of the user inputted number, within the user defined list from Step 4 - i.e.** ``` Positions in list: [1,3,9] ```
+* **The search will display the positions of the integer, within the user defined list from Step 3' - i.e.** ``` Positions in list: [1,3,9] ```
