@@ -1,5 +1,5 @@
 # Finding the Acyclic Path in a Graph of Nodes
-This program determines the Acyclic Path P between two nodes, in the graph G. The resulting path is displayed as a list.
+This program determines the Acyclic Path P between two nodes, in the graph G.
 
 ##  What is an Acyclic Path?
 An Acyclic Path is one that does not have a repeating cycle. In this case for the Acyclic Path in the graph G, the resulting path would not have any repeating nodes.
