@@ -4,7 +4,7 @@ This program searches through a user generated list of integers for an integer d
 ## Executing Program
 **Open up Terminal/Power Shell and navigate to the directory with posXInList.pl**
 1. Compile and run program: ``` swipl posXInList.pl ```
-2. Start the prograsm: ``` start. ```
+2. Start the program: ``` start. ```
 3. Follow the prompt and enter a list of numbers: i.e. ``` [2,234,2,656,4,5,7,3,2]. ```
 4. Follow the prompt and search for a number in the user defined list: i.e. ``` 2. ```
 
