@@ -11,7 +11,7 @@ An Acyclic Path is one that does not have a repeating cycle. In this case for th
 2. Start the program: ``` start. ```
 3. Follow the prompt and enter a graph to be used for the Acyclic Path: i.e. ``` graph([(a,b),(b,c),(c,d),(d,c),(c,b),(b,a)]. ```
   * **The given graph has been designed to also provide a backwards traversal. This means that traversal between D and A would be possible.**
-  * **It is important to consider the design of the graph. In order for the graph to traverse, there must be designated connections between nodes, otherwise the search would fail.**
+  * **It is important to consider the design of the graph. In order for the graph to traverse, there must be designated connections between nodes, otherwise the search may fail.**
   * Another example of a graph: ```graph([(a,b),(b,d),(b,c),(c,d),(d,c),(c,a),(c,b),(b,a)]. ```
 
 4. Follow the prompt and enter the start node: i.e. ``` a. ```
