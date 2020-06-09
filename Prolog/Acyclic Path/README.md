@@ -16,5 +16,7 @@ An Acyclic Path is one that does not have a repeating cycle. In this case for th
 
 4. Follow the prompt and enter the start node: i.e. ``` a. ```
 5. Follow the prompt and enter the end node: i.e. ``` d. ```
+
 **The result of the Acyclic Path search would be the path:** ``` [a->b->c->d] ```
+
 **The result of the Acyclic Path search of the second example graph, between nodes A and D would be:** ``` [a->b->d] ```
