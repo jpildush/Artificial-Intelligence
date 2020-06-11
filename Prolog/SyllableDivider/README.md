@@ -10,4 +10,4 @@ This program splits apart words based on the positioning of their syllables, whi
 3. Follow the prompt and enter a word: i.e. ``` pneumonoultramicroscopicsilicovolcanoconiosis. ```
 * This is the longest word when searched on google
 * **The split would result in: ``` pneumo-noultrami-cros-copic-silico-vol-canoco-niosi-s. ```**
-** Another example: ``` pseudopseudohypoparathyroidism ``` results in ``` pseudo-pseudo-hypo-para-thyro-idi-sm ```**
+** **Another example: ``` pseudopseudohypoparathyroidism ``` results in ``` pseudo-pseudo-hypo-para-thyro-idi-sm ```**
