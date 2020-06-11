@@ -12,10 +12,10 @@ This program traverses the graph G provided below and determines the least costl
 3. Follow the prompt and enter the start node: i.e. ``` a. ```
 4. Follow the prompt and enter the end node: i.e. ``` d. ```
 
-* The Path from a to d: [a,b,c,d] - Cost is 6
-* Another example b->d results in The Path from b to d: [b,c,d] - Cost is 3
+* Resulting Output: ``` The Path from a to d: [a,b,c,d] - Cost is 6 ```
+* Another example of b->d: ``` The Path from b to d: [b,c,d] - Cost is 3 ```
 
-**One search between the two user inputted nodes generates multiple unique paths, each with different costs.**
+**One search between the two user selected nodes generates multiple unique paths, each with different costs.**
 
 **The path that requires the least cost will be the resulting path, displayed as a list.**
 
