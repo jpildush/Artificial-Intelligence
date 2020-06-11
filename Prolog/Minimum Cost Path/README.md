@@ -7,6 +7,7 @@ This program traverses the graph G provided below and determines the least costl
 [graphG]: https://github.com/jpildush/Artificial-Intelligence/blob/master/Prolog/Minimum%20Cost%20Path/graphGminpath.jpeg "Graph G"
 
 ## Executing Program
+**Open up Terminal/Power Shell and navigate to the directory with minPath.pl**
 1. Compile and run program: ``` swipl minPath.pl ```
 2. Start the program: ``` start. ```
 3. Follow the prompt and enter the start node: i.e. ``` a. ```
