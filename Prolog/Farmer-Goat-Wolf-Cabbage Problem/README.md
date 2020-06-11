@@ -9,6 +9,6 @@ These animals and objects are not able to be together, since they would devour o
 
 ## Methods that have been used to create and traverse the FGWC Problem
 **These methods can be found by following their GitHub links below**
-1. [Depth-First Search]()
-2. [Breadth-First Search]()
-3. [Rule-Based Expert System]()
+1. [Breadth-First Search](https://github.com/jpildush/Artificial-Intelligence/tree/master/Prolog/Farmer-Goat-Wolf-Cabbage%20Problem/Breadth-First%20Search)
+2. [Depth-First Search](https://github.com/jpildush/Artificial-Intelligence/tree/master/Prolog/Farmer-Goat-Wolf-Cabbage%20Problem/Depth-First%20Search)
+3. [Rule-Based Expert System](https://github.com/jpildush/Artificial-Intelligence/tree/master/Prolog/Farmer-Goat-Wolf-Cabbage%20Problem/Rule-Based%20Expert%20System)
