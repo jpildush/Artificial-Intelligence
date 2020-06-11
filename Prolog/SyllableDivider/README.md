@@ -1,5 +1,5 @@
 # Syllable Breakdown in Words
-This program splits apart words based on the positioning of their syllables and following these rules:
+This program splits apart words based on the positioning of their syllables, while also following these rules:
 1. vowel–consonant–vowel - break after the third vowel
 2. vowel–consonant–consonant–vowel - break between the two consonants 
 
