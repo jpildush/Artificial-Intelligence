@@ -12,6 +12,6 @@ These animals and objects are not able to be together, since they would devour o
 1. [Breadth-First Search](https://github.com/jpildush/Artificial-Intelligence/tree/master/Prolog/Farmer-Goat-Wolf-Cabbage%20Problem/Breadth-First%20Search)
 2. [Depth-First Search](https://github.com/jpildush/Artificial-Intelligence/tree/master/Prolog/Farmer-Goat-Wolf-Cabbage%20Problem/Depth-First%20Search)
 
-**The two methods listed above will have different paths, but will still end up at the same goal**
+* **The two methods listed above will have different paths, but will still end up at the same goal**
 
 3. [Rule-Based Expert System](https://github.com/jpildush/Artificial-Intelligence/tree/master/Prolog/Farmer-Goat-Wolf-Cabbage%20Problem/Rule-Based%20Expert%20System)
